@@ -16,14 +16,14 @@ This system:
 
 ## 📸 Screenshots
 
-### 🖥️ Dashboard Overview
-![Dashboard](screenshots/dashboard.png)
+### 🖥️ Dashboard Overview (Stats Section)
+![Dashboard](screenshots/stats.png)
 
-### 🔗 Movement Graph
-![Graph](screenshots/graph.png)
+### 🔗 Movement Heatmap
+![Heatmap](screenshots/heatmap.png)
 
 ### 📊 Recommendations Table
-![Recommendations](screenshots/recommendations.png)
+![Recommendations](screenshots/recommendations%20table.png)
 
 ---
 
